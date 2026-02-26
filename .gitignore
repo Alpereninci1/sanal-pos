@@ -1,0 +1,25 @@
+# Laravel .gitignore
+/node_modules
+/public/storage
+/.env
+Homestead.yaml
+Homestead.json
+/public/hot
+/public/css/app.css
+/public/js/app.js
+/resources/js/app.js
+/resources/js/bootstrap.js
+/npm-debug.log
+/yarn-error.log
+
+# Laravel 8 and later directories
+/vendor
+/storage/debugbar
+/storage/framework/cache/data
+/storage/framework/sessions
+/storage/framework/views
+/storage/logs
+/.vagrant
+/.idea
+/.vscode
+.DS_Store
